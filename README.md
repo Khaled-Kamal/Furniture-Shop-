@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>A clean and elegant furniture shopping mobile UI built with Flutter.</b><br/>
-  Smooth onboarding, modern UI components, product detail pages & best seller sections.
+  Smooth onboarding, modern UI components, product detail pages & best seller sections
 </p>
 
 <p align="center">
